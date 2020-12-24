@@ -1,0 +1,12 @@
+---
+title: Reproductive rights
+order: 10
+---
+
+As one of the only countries in Europe with a strict and outright ban on abortion – including where a woman’s health is at jeopardy, and even in cases of rape or incest – women and physicians in Malta who participate in abortion procedures can face up to three years of prison time. (For an excellent recap of the landscape surrounding reproductive rights, read this 2019 article in The Atlantic, [*Malta’s fledgling movement for abortion rights*](https://www.theatlantic.com/international/archive/2019/07/maltas-abortion-rights/593845/).)
+
+As one of the gatekeepers of public discourse on this divisive and charged topic, it is crucial for journalists to exercise diligence. Careless language use, such as accusing women of “killing an unborn baby” instead of the more clinical terminology of “terminating a pregnancy” can be damaging. Remember to check your biases and entrenched views. 
+
+The case of a pregnant woman who was banned from travelling outside of Malta made headlines in September 2020, following a court order made on the basis of her former partner's accusations that she was planning to seek an abortion in another country. The woman alleged she was a victim of domestic abuse. Mediating Women (see our section on [Do's and Dont's]({% link en/reporting-on/dos-and-donts-case-study.md %})) criticized how several media outlets framed the story with a victim-centric narrative that omitted the perpetrator’s role in the apparent breach of her rights. A stock image of a pregnant woman in her third trimester appeared in the [Malta Independent](https://www.facebook.com/MediatingWomen/photos/a.217369612965916/371322094237333/) and [Times of Malta](https://timesofmalta.com/articles/view/abuse-victim-issued-travel-ban-as-partner-claims-she-wants-abortion.819991). “The headline places an emphasis on the victim not the perpetrator and the picture is NOT appropriate. Depict an abusive man not a faceless belly,” Mediating Women said in a Facebook post. Not only was this photo inappropriate, but wrong: The woman was 15 weeks along in her pregnancy, and not in her third trimester as the photo would suggest, underscoring just how harmful imagery can be to the public’s understanding of issues of abortion. 
+
+The International Planned Parenthood Federation have published a concise four-page guide called “How to Report on Abortion,” addressing language use and other tips for reporters writing about abortion and reproductive rights.

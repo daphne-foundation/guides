@@ -1,0 +1,43 @@
+title: Guides (daphne.foundation)
+description: >-
+  A collection of guides for journalists in Malta and beyond.
+baseurl: ""
+url: "https://guides.daphne.foundation/"
+permalink: /:year/:month/:title
+theme: null
+
+# Multilingualisation
+languages:
+  - en
+default_language: en
+
+# Translations
+t:
+  en:
+
+defaults:
+  -
+    scope:
+      path: en
+    values:
+      layout: default
+      language: en
+      index: no
+  -
+    scope:
+      path: en/reporting-on
+    values:
+      layout: guide-section
+      guide: reporting-on
+      author: Vjosa Isai
+  -
+    scope:
+      path: en/corruption
+    values:
+      layout: guide-section
+      guide: corruption
+
+# Build settings
+markdown: GFM
+plugins:
+  # - jekyll-feed

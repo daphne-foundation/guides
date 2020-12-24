@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+{% assign guide = site.data.guides | where: 'identifier', page.guide | first %}
+
+<article class="content">
+	<header class="content-header">
+		<h2 class="guide-title">{{ guide.name }}</h2>
+		<h1 class="content-title">{{ page.title }}</h1>
+		<address class="content-author">{{ page.author }}</address>
+	</header>
+	<div class="content-text">
+	{{ content }}
+	</div>
+	<footer class="content-footer">
+		{% if guide.order_by == 'order' %}
+		{% assign o = page.order | plus: 1 %}
+		{% assign n = site.pages | where: 'guide', page.guide | where: 'order', o | first %}
+		{% if n %}
+		<a class="button button--next" href="{{ n.url }}" rel="next" title="{{ n.title }}">Next: {{ n.title }} <span class="icon">➛</span></a>
+		{% endif %}
+		{% endif %}
+		<p class="contribute-text">Can you contribute to this section? <a href="https://github.com/daphne-foundation/guides/blob/main/{{ page.path }}">Edit this page on GitHub</a>.</p>
+	</footer>
+</article>
