@@ -1,6 +1,6 @@
 ---
 title: "Do's and dont's: a case study"
-order: 6
+order: 12
 ---
 
 Understanding what not to do in your reporting can be just as powerful as having a solid grasp of how to apply the tips in our checklist to your work. Below are two articles about the same 2018 case, the acquittal of Charles Fenech, followed by questions we encourage you to reflect on.
