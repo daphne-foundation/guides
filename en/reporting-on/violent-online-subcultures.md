@@ -15,4 +15,4 @@ Online forums are major breeding grounds for violence that is manifested in the 
 
 Though self-proclaimed incels involved in higher-profile activity resulting in violence in North America compared to Europe, the beliefs that underpin the incel community – from misogyny to femicide – can be found everywhere in the world. In Malta, it is important for journalists to remember and interrogate this angle in their reporting. 
 
-For strategies on how to responsibly navigate these stories, refer to [**The ethics of reporting on incels**](https://j-source.ca/article/the-ethics-of-reporting-on-incels/) by Vjosa Isai, a Canada-based journalist and co-author of this guide. 
+For strategies on how to responsibly navigate these stories, refer to [**The ethics of reporting on incels**](https://j-source.ca/article/the-ethics-of-reporting-on-incels/) by Vjosa Isai. 
