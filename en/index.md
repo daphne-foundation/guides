@@ -15,4 +15,4 @@ There are many who don't need any lessons from us. If you're in that bracket, pl
 
 ### [Reporting on Violence Against Women]({% link en/reporting-on/introduction.md %})
 
-Our first guide, by Vjosa Isai. Aimed at reporters, this guide covers domestic violence, gender pay gaps, human trafficking, missing and murdered women, the representation of women in news, reproductive rights, sex work, sexual assault, orientation and violent online subcultures.
+Our first guide is by Vjosa Isai. Aimed at reporters, this guide provides an overview of topics related to violence against women, including human trafficking and sexual assault, examples of media coverage in Malta, and more. The Checklist chapter provides tips that reinforce a fair, ethical and victim-informed approach for reporting on violence against women.
