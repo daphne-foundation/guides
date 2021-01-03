@@ -15,7 +15,7 @@ Generic photos or stock-images – often pictures of a woman’s legs in fishnet
 
 ## Do not ‘out’ your source as a sex worker if they wish to remain anonymous
 
-Given the stigma surrounding sex work, your source may want to remain anonymous. Refer to the  Chapter 3 Checklist for Reporting on Gender-Based Violence, for more information on how to handle anonymity requests responsibly.
+Given the stigma surrounding sex work, your source may want to remain anonymous. Refer to the Checklist for more information on how to handle anonymity requests responsibly.
 
 ## Address ‘myths’ and biases in your reporting
 
